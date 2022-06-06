@@ -1,0 +1,32 @@
+C:\Users\Gabriel Jorge\Desktop\Zuma\Zuma\bin\Debug\Zuma.exe.config
+C:\Users\Gabriel Jorge\Desktop\Zuma\Zuma\bin\Debug\Zuma.exe
+C:\Users\Gabriel Jorge\Desktop\Zuma\Zuma\bin\Debug\Zuma.pdb
+C:\Users\Gabriel Jorge\Desktop\Zuma\Zuma\obj\Debug\Zuma.csprojAssemblyReference.cache
+C:\Users\Gabriel Jorge\Desktop\Zuma\Zuma\obj\Debug\Zuma.Form1.resources
+C:\Users\Gabriel Jorge\Desktop\Zuma\Zuma\obj\Debug\Zuma.Form2.resources
+C:\Users\Gabriel Jorge\Desktop\Zuma\Zuma\obj\Debug\Zuma.Properties.Resources.resources
+C:\Users\Gabriel Jorge\Desktop\Zuma\Zuma\obj\Debug\Zuma.csproj.GenerateResource.cache
+C:\Users\Gabriel Jorge\Desktop\Zuma\Zuma\obj\Debug\Zuma.exe
+C:\Users\Gabriel Jorge\Desktop\Zuma\Zuma\obj\Debug\Zuma.pdb
+D:\Users\casa\Desktop\Zuma\Zuma\Zuma\bin\Debug\Zuma.exe.config
+D:\Users\casa\Desktop\Zuma\Zuma\Zuma\bin\Debug\Zuma.exe
+D:\Users\casa\Desktop\Zuma\Zuma\Zuma\bin\Debug\Zuma.pdb
+D:\Users\casa\Desktop\Zuma\Zuma\Zuma\obj\Debug\Zuma.csprojAssemblyReference.cache
+D:\Users\casa\Desktop\Zuma\Zuma\Zuma\obj\Debug\Zuma.Form1.resources
+D:\Users\casa\Desktop\Zuma\Zuma\Zuma\obj\Debug\Zuma.Form2.resources
+D:\Users\casa\Desktop\Zuma\Zuma\Zuma\obj\Debug\Zuma.Properties.Resources.resources
+D:\Users\casa\Desktop\Zuma\Zuma\Zuma\obj\Debug\Zuma.csproj.GenerateResource.cache
+D:\Users\casa\Desktop\Zuma\Zuma\Zuma\obj\Debug\Zuma.csproj.CoreCompileInputs.cache
+D:\Users\casa\Desktop\Zuma\Zuma\Zuma\obj\Debug\Zuma.exe
+D:\Users\casa\Desktop\Zuma\Zuma\Zuma\obj\Debug\Zuma.pdb
+Z:\OneDrive - sga.pucminas.br\Projetos\Programação\C#\Zuma\Zuma\Zuma\bin\Debug\Zuma.exe.config
+Z:\OneDrive - sga.pucminas.br\Projetos\Programação\C#\Zuma\Zuma\Zuma\bin\Debug\Zuma.exe
+Z:\OneDrive - sga.pucminas.br\Projetos\Programação\C#\Zuma\Zuma\Zuma\bin\Debug\Zuma.pdb
+Z:\OneDrive - sga.pucminas.br\Projetos\Programação\C#\Zuma\Zuma\Zuma\obj\Debug\Zuma.csprojAssemblyReference.cache
+Z:\OneDrive - sga.pucminas.br\Projetos\Programação\C#\Zuma\Zuma\Zuma\obj\Debug\Zuma.Form1.resources
+Z:\OneDrive - sga.pucminas.br\Projetos\Programação\C#\Zuma\Zuma\Zuma\obj\Debug\Zuma.Form2.resources
+Z:\OneDrive - sga.pucminas.br\Projetos\Programação\C#\Zuma\Zuma\Zuma\obj\Debug\Zuma.Properties.Resources.resources
+Z:\OneDrive - sga.pucminas.br\Projetos\Programação\C#\Zuma\Zuma\Zuma\obj\Debug\Zuma.csproj.GenerateResource.cache
+Z:\OneDrive - sga.pucminas.br\Projetos\Programação\C#\Zuma\Zuma\Zuma\obj\Debug\Zuma.csproj.CoreCompileInputs.cache
+Z:\OneDrive - sga.pucminas.br\Projetos\Programação\C#\Zuma\Zuma\Zuma\obj\Debug\Zuma.exe
+Z:\OneDrive - sga.pucminas.br\Projetos\Programação\C#\Zuma\Zuma\Zuma\obj\Debug\Zuma.pdb
